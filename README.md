@@ -13,7 +13,7 @@ A small 3-blade pinwheel medal, modeled from scratch in **Onshape** and 3D-print
 
 The task was simple: **pick any image from the internet, estimate its real dimensions by eye, and rebuild it as a printable medal.** The inspiration is the **Mitsubishi three-diamond emblem** — three red rhombi arranged with three-fold symmetry around a common center.
 
-[![Mitsubishi three-diamond logo](docs/reference.png)](https://en.wikipedia.org/wiki/Mitsubishi)
+[![Mitsubishi three-diamond logo](docs/reference.jpg)](https://en.wikipedia.org/wiki/Mitsubishi)
 
 > 🔗 **Reference:** Mitsubishi logo — https://en.wikipedia.org/wiki/Mitsubishi
 > *(clean vector recreation of the three-diamond mark — a trademark of Mitsubishi, shown here only to credit the design inspiration)*
@@ -91,7 +91,7 @@ Real figures measured from the exported `Medal.stl`:
 | [`Medal.stl`](Medal.stl) | the exported mesh (⚠️ exported in **meters** — re-export as **mm** in Onshape, or scale 1000% in your slicer, so it prints at 43 × 38 × 2 mm) |
 | [`docs/medal-hero.png`](docs/medal-hero.png) | hero render of the finished medal |
 | [`docs/onshape-workspace.png`](docs/onshape-workspace.png) | the Onshape Part Studio (feature tree + model) |
-| [`docs/reference.png`](docs/reference.png) | the Mitsubishi three-diamond logo (design inspiration) |
+| [`docs/reference.jpg`](docs/reference.jpg) | the Mitsubishi three-diamond logo (design inspiration) |
 | `README.md` | this file |
 
 **Download:** [`Medal.stl`](Medal.stl) — 43 × 38 × 2 mm, ~32 KB
