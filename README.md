@@ -11,15 +11,14 @@ A small 3-blade pinwheel medal, modeled from scratch in **Onshape** and 3D-print
 
 ## 1. Where it started — the inspiration
 
-The task was simple: **pick any image from the internet, estimate its real dimensions by eye, and rebuild it as a printable medal.** I went with a **three-blade pinwheel / propeller** motif — three curved blades sweeping out from a central hub at 120°, with one blade carrying the hole so it hangs straight on a keyring.
+The task was simple: **pick any image from the internet, estimate its real dimensions by eye, and rebuild it as a printable medal.** The inspiration is the **Mitsubishi three-diamond emblem** — three red rhombi arranged with three-fold symmetry around a common center.
 
-<!--
-To add your inspiration image later:
-  1. save it as docs/reference.png
-  2. paste this line right below, replacing the URL with your source:
-     [![Reference image](docs/reference.png)](PUT_SOURCE_URL_HERE)
--->
+[![Mitsubishi three-diamond logo](docs/reference.png)](https://en.wikipedia.org/wiki/Mitsubishi)
 
+> 🔗 **Reference:** Mitsubishi logo — https://en.wikipedia.org/wiki/Mitsubishi
+> *(clean vector recreation of the three-diamond mark — a trademark of Mitsubishi, shown here only to credit the design inspiration)*
+
+I kept that three-fold geometry but reshaped the flat diamonds into **swept, curved blades** and moved one blade to carry the keyring hole — so the medal reads as its own pinwheel/propeller rather than a straight copy of the logo.
 
 ---
 
@@ -92,7 +91,7 @@ Real figures measured from the exported `Medal.stl`:
 | [`Medal.stl`](Medal.stl) | the exported mesh (⚠️ exported in **meters** — re-export as **mm** in Onshape, or scale 1000% in your slicer, so it prints at 43 × 38 × 2 mm) |
 | [`docs/medal-hero.png`](docs/medal-hero.png) | hero render of the finished medal |
 | [`docs/onshape-workspace.png`](docs/onshape-workspace.png) | the Onshape Part Studio (feature tree + model) |
-| `docs/reference.png` | _(optional) inspiration image — add if you traced one_ |
+| [`docs/reference.png`](docs/reference.png) | the Mitsubishi three-diamond logo (design inspiration) |
 | `README.md` | this file |
 
 **Download:** [`Medal.stl`](Medal.stl) — 43 × 38 × 2 mm, ~32 KB
@@ -115,5 +114,5 @@ Real figures measured from the exported `Medal.stl`:
 ## Credits & references
 
 - **Design:** built from scratch in [Onshape](https://cad.onshape.com/documents/397017cc1a7a12de8732ec00/w/e5a936622b3813b56b62b51a/e/b9a6abfdd1b7551efe16f6b2) by Mohammed Ghassan (@Sniper797).
-- **Reference:** _add the source of your inspiration image._
+- **Reference:** Mitsubishi three-diamond logo — https://en.wikipedia.org/wiki/Mitsubishi (a trademark of Mitsubishi; shown only to credit the design inspiration).
 - **Task:** Smart Methods — ST 2026 mechanical training, task 2.
